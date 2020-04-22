@@ -1,6 +1,7 @@
 # Computational Data Analysis
 
 # Coursework (2017)
+### Assignment by: Jonathan Schler
 
 ### Introduction
 
